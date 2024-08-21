@@ -1,0 +1,131 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+ 
+}
+
+.cooa{
+    background-color: #642681;
+    color: aliceblue;
+}
+
+
+nav{
+    background-color: rgb(11, 10, 12);
+    color: rgb(247, 244, 244);
+}
+
+.na{
+    background-color: rgb(11, 10, 12);
+
+}
+
+.na a{
+    text-decoration: none;
+    color: rgb(247, 243, 243);
+
+}
+
+.na ul{
+    display: inline-flex;
+    list-style: none;
+}
+
+
+ul li{
+    margin-right: 24px;
+    margin-top: 20px;
+    padding-left: 30px;
+}
+
+
+.la li:hover{
+    color: black;
+
+}
+
+h1{
+
+    text-align:center;
+}
+
+.head{
+    height: 90vh;
+}
+
+.he{
+    text-align: center;
+  padding-top: 170px;
+}
+
+p{
+    font-weight: 700;
+    font-size: x-large;
+    color: rgb(117, 95, 240);
+}
+
+
+.he h2{
+    font-weight:900;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+
+.sa{
+    text-align: center;
+    padding-top: 130px;
+}
+
+.sa img{
+    width: 550px;
+    height: 350px;
+    border-radius: 10px;
+}
+
+.mead{
+   
+    color: beige;
+    /* background-color: darkslategray; */
+    font-size: xx-large;
+    border: 2px rgb(11, 10, 12) solid;
+    width: 90vh;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 5rem;
+    padding: 8px;
+    
+    
+}
+
+.mead a{
+    text-decoration: none;
+    color: #ffffff;
+    margin-right: 15px;
+    background-color: #612d79;
+    border: 2px rgb(100, 61, 139) solid;
+    border-radius:5rem;
+    padding: 5px;
+}
+
+.mead .aa a{
+    background-color: black;
+
+}
+
+.mead a:hover{
+    box-shadow: 10px 10px 10px gray;
+    color:lightseagreen;
+}
+
+.ba img{
+    width: 1000px;
+    height: 90vh;
+    text-align: center;
+    padding-top: 30px;
+    margin-left: 50px;
+}
+
+
